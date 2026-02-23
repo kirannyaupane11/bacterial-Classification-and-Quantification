@@ -1,5 +1,5 @@
 # Install Streamlit if it's not already installed
-!pip install -q streamlit
+
 
 import streamlit as st
 import torch
